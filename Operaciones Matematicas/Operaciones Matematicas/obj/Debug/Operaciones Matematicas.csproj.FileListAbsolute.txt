@@ -1,0 +1,7 @@
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones Matematicas\Operaciones Matematicas\bin\Debug\Operaciones Matematicas.exe.config
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones Matematicas\Operaciones Matematicas\bin\Debug\Operaciones Matematicas.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones Matematicas\Operaciones Matematicas\bin\Debug\Operaciones Matematicas.pdb
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones Matematicas\Operaciones Matematicas\obj\Debug\Operaciones Matematicas.csproj.AssemblyReference.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones Matematicas\Operaciones Matematicas\obj\Debug\Operaciones Matematicas.csproj.CoreCompileInputs.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones Matematicas\Operaciones Matematicas\obj\Debug\Operaciones Matematicas.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones Matematicas\Operaciones Matematicas\obj\Debug\Operaciones Matematicas.pdb

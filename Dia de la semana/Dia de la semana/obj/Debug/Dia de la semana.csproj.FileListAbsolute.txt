@@ -1,0 +1,7 @@
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Dia de la semana\Dia de la semana\bin\Debug\Dia de la semana.exe.config
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Dia de la semana\Dia de la semana\bin\Debug\Dia de la semana.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Dia de la semana\Dia de la semana\bin\Debug\Dia de la semana.pdb
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.csproj.AssemblyReference.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.csproj.CoreCompileInputs.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.pdb

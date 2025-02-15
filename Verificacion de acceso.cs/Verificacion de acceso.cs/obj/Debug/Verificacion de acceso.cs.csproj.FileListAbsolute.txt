@@ -1,0 +1,7 @@
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Verificacion de acceso.cs\Verificacion de acceso.cs\bin\Debug\Verificacion de acceso.cs.exe.config
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Verificacion de acceso.cs\Verificacion de acceso.cs\bin\Debug\Verificacion de acceso.cs.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Verificacion de acceso.cs\Verificacion de acceso.cs\bin\Debug\Verificacion de acceso.cs.pdb
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Verificacion de acceso.cs\Verificacion de acceso.cs\obj\Debug\Verificacion de acceso.cs.csproj.AssemblyReference.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Verificacion de acceso.cs\Verificacion de acceso.cs\obj\Debug\Verificacion de acceso.cs.csproj.CoreCompileInputs.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Verificacion de acceso.cs\Verificacion de acceso.cs\obj\Debug\Verificacion de acceso.cs.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Verificacion de acceso.cs\Verificacion de acceso.cs\obj\Debug\Verificacion de acceso.cs.pdb

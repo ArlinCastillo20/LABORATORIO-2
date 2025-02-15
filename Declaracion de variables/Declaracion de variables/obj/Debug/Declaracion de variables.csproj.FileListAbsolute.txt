@@ -1,0 +1,7 @@
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Declaracion de variables\Declaracion de variables\bin\Debug\Declaracion de variables.exe.config
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Declaracion de variables\Declaracion de variables\bin\Debug\Declaracion de variables.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Declaracion de variables\Declaracion de variables\bin\Debug\Declaracion de variables.pdb
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Declaracion de variables\Declaracion de variables\obj\Debug\Declaracion de variables.csproj.AssemblyReference.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Declaracion de variables\Declaracion de variables\obj\Debug\Declaracion de variables.csproj.CoreCompileInputs.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Declaracion de variables\Declaracion de variables\obj\Debug\Declaracion de variables.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Declaracion de variables\Declaracion de variables\obj\Debug\Declaracion de variables.pdb

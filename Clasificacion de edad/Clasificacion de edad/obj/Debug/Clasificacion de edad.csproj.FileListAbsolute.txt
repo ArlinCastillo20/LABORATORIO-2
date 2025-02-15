@@ -1,0 +1,7 @@
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Clasificacion de edad\Clasificacion de edad\bin\Debug\Clasificacion de edad.exe.config
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Clasificacion de edad\Clasificacion de edad\bin\Debug\Clasificacion de edad.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Clasificacion de edad\Clasificacion de edad\bin\Debug\Clasificacion de edad.pdb
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Clasificacion de edad\Clasificacion de edad\obj\Debug\Clasificacion de edad.csproj.AssemblyReference.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Clasificacion de edad\Clasificacion de edad\obj\Debug\Clasificacion de edad.csproj.CoreCompileInputs.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Clasificacion de edad\Clasificacion de edad\obj\Debug\Clasificacion de edad.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Clasificacion de edad\Clasificacion de edad\obj\Debug\Clasificacion de edad.pdb

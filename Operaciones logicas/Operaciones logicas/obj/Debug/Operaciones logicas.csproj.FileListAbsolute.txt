@@ -1,0 +1,7 @@
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones logicas\Operaciones logicas\bin\Debug\Operaciones logicas.exe.config
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones logicas\Operaciones logicas\bin\Debug\Operaciones logicas.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones logicas\Operaciones logicas\bin\Debug\Operaciones logicas.pdb
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones logicas\Operaciones logicas\obj\Debug\Operaciones logicas.csproj.AssemblyReference.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones logicas\Operaciones logicas\obj\Debug\Operaciones logicas.csproj.CoreCompileInputs.cache
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones logicas\Operaciones logicas\obj\Debug\Operaciones logicas.exe
+C:\Users\Gudiel\Desktop\Tercer Semestre\Programacion 1\Laboratorio 2\Operaciones logicas\Operaciones logicas\obj\Debug\Operaciones logicas.pdb
